@@ -162,7 +162,7 @@
             this.Controls.Add(this.btnJuego);
             this.Controls.Add(this.govMultiplos);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Inicio App";
             this.govMultiplos.ResumeLayout(false);
             this.govMultiplos.PerformLayout();
             this.ResumeLayout(false);

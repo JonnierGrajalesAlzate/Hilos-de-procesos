@@ -9,3 +9,14 @@ C:\Users\57304\Desktop\Juego_Hilos\procesoDeHilos\obj\Debug\procesoDeHilos.cspro
 C:\Users\57304\Desktop\Juego_Hilos\procesoDeHilos\obj\Debug\procesoDeHilos.exe
 C:\Users\57304\Desktop\Juego_Hilos\procesoDeHilos\obj\Debug\procesoDeHilos.pdb
 C:\Users\57304\Desktop\Juego_Hilos\procesoDeHilos\obj\Debug\procesoDeHilos.fmrWinMode.resources
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\bin\Debug\procesoDeHilos.exe.config
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\bin\Debug\procesoDeHilos.exe
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\bin\Debug\procesoDeHilos.pdb
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.csproj.AssemblyReference.cache
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.frmJuegoNave.resources
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.Form1.resources
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.Properties.Resources.resources
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.csproj.GenerateResource.cache
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.csproj.CoreCompileInputs.cache
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.exe
+C:\Users\57304\Desktop\Z\Hilos-de-procesos\procesoDeHilos\obj\Debug\procesoDeHilos.pdb

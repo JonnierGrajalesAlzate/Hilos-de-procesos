@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace procesoDeHilos
 {
-    public partial class fmrWinMode : Form
+    public partial class frmJuegoNave : Form
     {
-        public fmrWinMode()
+        public frmJuegoNave()
         {
             InitializeComponent();
+            tmrUFO.Enabled = true;
         }
 
         bool glMoverDer = true;
@@ -23,11 +24,6 @@ namespace procesoDeHilos
         private void fmrWinMode_Load(object sender, EventArgs e)
         {
             picUFO.ImageLocation = Application.StartupPath + ("//nave.PNG");
-        }
-
-        private void btnIniciar_Click(object sender, EventArgs e)
-        {
-            tmrUFO.Enabled = true; 
         }
 
         private void tmrUFO_Tick(object sender, EventArgs e)
@@ -49,6 +45,14 @@ namespace procesoDeHilos
             {
                 glMoverDer = true;
             }
+        }
+
+        private void regresarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 frmVolver = new Form1();
+            this.Hide();
+            frmVolver.FormClosed += (s, args) => this.Close();
+            frmVolver.Show();
         }
     }
 }

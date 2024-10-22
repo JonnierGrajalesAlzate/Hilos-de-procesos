@@ -73,9 +73,9 @@ namespace procesoDeHilos.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bof {
+        internal static System.Drawing.Bitmap volver {
             get {
-                object obj = ResourceManager.GetObject("bof", resourceCulture);
+                object obj = ResourceManager.GetObject("volver", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

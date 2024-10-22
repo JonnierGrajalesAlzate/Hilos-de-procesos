@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 /*Jonnier Grajales Alzate
  28/08/2024
@@ -57,7 +50,9 @@ namespace procesoDeHilos
 
         private void btnJuego_Click(object sender, EventArgs e)
         {
-            fmrWinMode nuevoFormulario = new fmrWinMode();
+            frmJuegoNave nuevoFormulario = new frmJuegoNave();
+            this.Hide();
+            nuevoFormulario.FormClosed += (s, args) => this.Close();
             nuevoFormulario.Show();
         }
     }
